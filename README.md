@@ -16,7 +16,7 @@ The Nextory API is the only means of communication between the Nextory app and t
 No conceptual docs are needed (Getting Started, Code Samples, Authentication) because the API is consumed internally.
 
 ## Project Stats
-
+The project began in April 2021 and finished in August 2021. About 110 hours of tech writer effort went into the project. The final reference doc ended up at 10591 lines of YAML. There were 53 endpoints.
 
 ## About Me
 I'm a senior technical writer based in Auckland, New Zealand who wants to move away from end-user docs to developer docs. REST APIs seem like a great place to start because I can provide a human and machine-readable API definition as well as conceptual docs that will make organisations' APIs more appealing to devs and decision-makers. [View my LinkedIn profile](https://www.linkedin.com/in/jody-winter/).
