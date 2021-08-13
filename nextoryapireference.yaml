@@ -2352,16 +2352,6 @@ components:
       name: appid
       in: header
 tags:
-  - name: Account holders and users
-  - name: Analytics
-  - name: Authentication and login
-  - name: Books and bookgroups
-  - name: Library sync
-  - name: Markets
-  - name: Notifications
   - name: Reading diary
   - name: Reading goals
   - name: Search
-  - name: Signup
-  - name: Social
-  - name: Subscriptions
